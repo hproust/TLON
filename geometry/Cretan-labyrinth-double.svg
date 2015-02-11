@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="1225" height="1125" viewBox="-587.5 -787.5 1225 1125" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<title>A doubled version of the "Cretan" type of labyrinth</title>
+<g transform="scale(1,-1)">
+<path style="fill:#ffffff" d="M-50,-250 H-550 V750 H600 V-300 H0Z"/>
+<path style="fill:none;stroke:#000000;stroke-width:25;stroke-linecap:square"
+d="M150,-150 H450 V600 H-400 V-100 H-100 V-200 H-500 V700 H550 V-250 H50 V-50
+H350 V500 H-300 V0 H300 V450 H-250 V50 H-50 V250 H100 V100 H200 V350 H-150
+V150 M-150,-150 H-450 V650 H500 V-200 H100 V-100 H400 V550 H-350 V-50 H-50
+V-250 H-550 V750 H600 V-300 H0 V200 H50 V50 H250 V400 H-200 V100 H-100 V300
+H150 V150"/>
+</g>
+</svg>
