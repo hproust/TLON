@@ -1,7 +1,7 @@
 body{
   	font-family: monospace;
-  	
-	
+
+
 }
 
 .node{
@@ -9,7 +9,7 @@ body{
 }
 
 .subject{
-  
+
 
 }
 
@@ -21,10 +21,10 @@ body{
 a.viewpic {
   position:relative;
   border-bottom:1px dashed #808080;
- 
+
 }
 a:hover.viewpic {
-  
+
   background: none;
 
 }
@@ -39,24 +39,24 @@ a.viewpic.articles {
 a.viewpic.culture {
   color:#ff00fc;
 }
-	
+
 
 a.viewpic span {
-	
+
 	display: none;
-	
+
 	}
 
 a:hover.viewpic span {
   display:inline;
-  position: absolute; 
+  position: absolute;
   top: -50px;
   left: -20px;
   z-index: 110;
   padding:2px 4px;
 }
 
-
+img{max-width: 700px;}
 .hover_img a { position:relative; }
 .hover_img a span { position:absolute; display:none; z-index:150; }
 .hover_img a:hover span { display:block; }
