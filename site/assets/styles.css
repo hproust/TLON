@@ -1,17 +1,62 @@
 body{
-  font-size:1em;
-  font-family: monospace;
+  	font-family: monospace;
+  	
+	
 }
 
 .node{
-  font-weight: bold;
+
 }
 
 .subject{
-  font-size:1.2em;
-  font-weight: bold;
+  
+
 }
 
 .date, .author, .hash{
-  font-size: 0.756em;
+
 }
+
+
+a.viewpic {
+  position:relative;
+  border-bottom:1px dashed #808080;
+ 
+}
+a:hover.viewpic {
+  
+  background: none;
+
+}
+
+
+
+
+a.viewpic.articles {
+  color:#30ff00;
+}
+
+a.viewpic.culture {
+  color:#ff00fc;
+}
+	
+
+a.viewpic span {
+	
+	display: none;
+	
+	}
+
+a:hover.viewpic span {
+  display:inline;
+  position: absolute; 
+  top: -50px;
+  left: -20px;
+  z-index: 110;
+  padding:2px 4px;
+}
+
+
+.hover_img a { position:relative; }
+.hover_img a span { position:absolute; display:none; z-index:150; }
+.hover_img a:hover span { display:block; }
